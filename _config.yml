@@ -3,4 +3,4 @@ exclude:
   - script
   - src
 
-theme: jekyll-theme-github
+remote_theme: marella/jekyll-theme-github

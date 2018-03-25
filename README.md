@@ -6,7 +6,7 @@ A Jekyll theme for GitHub Pages based on GitHub's Primer styles. You can [previe
 1. Add the following to your site's `_config.yml`:
 
     ```yml
-    theme: jekyll-theme-github
+    remote_theme: marella/jekyll-theme-github
     ```
 
 1. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
